@@ -81,6 +81,10 @@ Unlike standard business dashboards, this project analyzes **personal behavioral
 **Page 2 — Listening Hours Heatmap & Engagement Analysis**
 ![Spotify Dashboard Page 2](https://github.com/TofunmiTech01/spotify-streaming-analysis-powerbi-/blob/main/spotify-dashboard2.jpeg)
 
+**Page 3 — Album Details Grid**
+![Spotify Dashboard Page 3](https://github.com/TofunmiTech01/spotify-streaming-analysis-powerbi-/blob/main/spotify-dashboard3.PNG)
+
+
 ---
 
 ## Key Performance Indicators (KPIs)
